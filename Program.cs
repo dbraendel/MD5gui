@@ -7,6 +7,7 @@ using System.Security.Cryptography;
 
 namespace NS_MD5
 {
+	// The main class.
     class MD5Check
     {
         private bool showShort; // show short form
